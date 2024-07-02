@@ -9,7 +9,8 @@ This is a simple Android application that displays a list of students. When a st
 
 ## Screenshots
   
-  ![image](https://github.com/Omkar4033/Elemental_Assignment/assets/91587106/ce7057f7-a42b-4668-995a-a4058c58159e)
+  ![image](https://github.com/Omkar4033/Elemental_Assignment/assets/91587106/662eb188-2347-478f-900a-f616eaac4a3d)
+
 
  ![image](https://github.com/Omkar4033/Elemental_Assignment/assets/91587106/1377a651-9449-496d-9fbe-36f54835250b)
 
